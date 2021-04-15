@@ -63,7 +63,7 @@
             app:cardCornerRadius="25dp">
             <ImageView
                 android:scaleType="fitXY"
-                android:src="@drawable/icon"
+                android:src="@drawable/avatar"
                 android:layout_width="50dp"
                 android:layout_height="50dp"></ImageView>
         </androidx.cardview.widget.CardView>
